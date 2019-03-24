@@ -8,5 +8,7 @@ This sketch needs the following libraries:
 	
 You can find these in the Arduino IDE _Library Manager_.
 
+NOTE: The repository includes a modified version of EtherCard library in order to save RAM.
+
 ## Art-Net protocol ##
 [Specification for the Art-Net 4 protocol](http://artisticlicence.com/WebSiteMaster/User%20Guides/art-net.pdf)
